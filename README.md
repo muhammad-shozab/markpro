@@ -5,6 +5,16 @@
 
 ---
 
+## 📸 Overview Screenshots
+
+<!-- Paste a dashboard / login screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/e8cde408-336c-41a0-8dfd-32aee49af9f6" />
+
+<!-- Paste a login screen screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/caf72753-79e7-4c7b-b0d5-9a7a72e28a47" />
+
+---
+
 ## Quick Start
 
 ```bash
@@ -46,6 +56,62 @@ npm start                            # frontend :3000
 | 22 | AI Suite | `/api/ai` | AIGen, AI Social Replier, Leonardo AI, merged-mern-saas |
 | 23 | Pen AI | `/api/pen` | AI2Pen |
 | 24 | ZAM Nexus (CRM + Lead Gen) | `/api/zam` | zam-nexus |
+
+---
+
+## 📸 Module Screenshots
+
+### 1. SEO Tools
+<!-- Paste screenshot below -->
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/ad087c34-548b-4905-bd62-52522c9fb156" />
+
+### 2. SEO Manager
+<!-- Paste screenshot below -->
+<img width="1364" height="596" alt="image" src="https://github.com/user-attachments/assets/0c88fe27-a12e-43f9-8694-f9815f08d9a7" />
+
+### 3. Cyber/Dev Tools
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2861c10e-b369-4e0c-a4e4-1aaee629be6b" />
+
+### 5. Bio Pages
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ab7ba459-ec76-430b-86fe-2d447e0ac235" />
+
+### 6. BioLinks
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/940e21ca-b71a-4b80-ae91-e74e036738d0" />
+
+### 8. WhatsApp Cloud API
+<!-- Paste screenshot below -->
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/a17119c7-29e3-4d4d-b120-332c17b293db" />
+
+### 10. Publish & Brand AI
+<!-- Paste screenshot below -->
+<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/0b6925ae-ea3e-4a59-81cd-fa88ec195f52" />
+
+### 15. Design Studio
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/6d04d29b-4769-4d9d-99d6-148cda10e5a1" />
+
+### 17. ToolsAI
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5e918737-f61e-4642-98c2-289c7732cb9f" />
+
+### 18. SiteSpy
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9ce5067d-a797-4e63-aa3a-8e2af1f6e5b5" />
+
+### 20. SMM Panel
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/15b0a17e-07c4-4298-9691-36206e05e5f7" />
+
+### 21. Social Stream
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/55ceebe3-a268-4683-987a-e44adc9330b6" />
+
+### 24. ZAM Nexus
+<!-- Paste screenshot below -->
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/6ad4fb5e-2965-41b4-b2cb-2e1ac41a0057" />
 
 ---
 
