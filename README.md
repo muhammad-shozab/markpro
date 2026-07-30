@@ -1,4 +1,4 @@
-# MarkPro v5 — Complete Marketing Platform
+# MarkPro v5 - Complete Marketing Platform
 
 > 37 standalone MERN projects unified under one auth, one database, one admin panel.
 > 0 missing modules. All gaps closed.
